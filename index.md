@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-*Última actualización: 19 diciembre 2024*
+*Última actualización: 22 diciembre 2024*
 
 El objetivo de esta plataforma ciudadana es informar sobre las consequencias
 negativas de la implementación de plantas de biogás cercanas a las poblaciones
@@ -160,7 +160,7 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Stop Biogás advierte y pide ayuda a la vecindad de Almansa: «Hay que estar muy atentos» - *La tinta de Almansa*](https://latintadealmansa.com/sociedad/stop-biogas-advierte-y-pide-ayuda-a-la-vecindad-de-almansa-hay-que-estar-muy-atentos/)
 
-### Campillos (Málaga)
+### Málaga
 
 * [Incendio en la planta de biogás de Campillos: arde una balsa provocando una gran columna de humo - *Málaga Hoy*](https://www.malagahoy.es/provincia/Incendio-biogas-Campillos-balsa-columna-humo_0_1822918622.html)
 
@@ -181,6 +181,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Plantas de biogás cerca de zonas residenciales: Riesgos, impactos y debates actuales](https://lavozdealpartir.es/plantas-biogas-zonas-residenciales/)
 
 * [Repsol entra en la producción de biometano con la adquisición del 40% de Genia Bioenergy](https://www.repsol.com/es/sala-prensa/notas-prensa/2024/repsol-entra-produccion-biometano-adquisicion-40-por-ciento-genia-bioenergy/index.cshtml)
+
+* [España, vertedero "ilegal" del sur de Europa de residuos urbanos e industriales](https://efeverde.com/espana-vertedero-ilegal-del-sur-de-europa-de-residuos-urbanos-e-industriales/)
 
 ## Entrevistas en la radio
 
