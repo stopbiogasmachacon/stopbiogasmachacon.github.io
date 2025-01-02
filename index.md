@@ -7,9 +7,9 @@ author_profile: true
 classes: wide
 ---
 
-*Última actualización: 22 diciembre 2024*
+*Última actualización: 02 enero 2025*
 
-El objetivo de esta plataforma ciudadana es informar sobre las consequencias
+El objetivo de esta plataforma ciudadana es informar sobre las consecuencias
 negativas de la implementación de plantas de biogás cercanas a las poblaciones
 y evitar, por estos motivos, la construcción de una de estas plantas en
 Machacón y pueblos aledaños.
@@ -35,6 +35,12 @@ se han construído. Los impactos más relevantes son:
 - Efecto llamada a la instalación de macrogranjas (que aumentan todos los
   problemas ya referidos)
 
+## Anotaciones importantes
+
+* [La verdad sobre las ganancias de los ayuntamientos con las plantas de biogás ¡las cifras reales!](_posts/2025-01-02-ganancias-reales.md)
+
+* [Respuestas a algunas de las preguntas que surgen en noticias varias](_posts/2025-01-02-respuestas-generales.md)
+
 ## Otras plataformas
 
 Otras plataformas, asociaciones y federaciones que se oponen a la construcción de
@@ -57,6 +63,7 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 ## Eventos asistidos
 
 * 6 diciembre 2024 - Manifestación en Zamora
+* 23 diciembre 2024 - Marcha desde Jambrina a Peleas de Abajo (Zamora)
 
 ## Otros documentos
 
@@ -83,6 +90,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Vecinos de seis provincias de Castilla y León se manifestarán en contra de las macroplantas de biogás - Tribuna de Salamanca](https://www.tribunasalamanca.com/noticias/380553/vecinos-de-seis-provincias-de-castilla-y-leon-se-manifestaran-en-contra-de-las-macroplantas-de-biogas)
 
 * [Mañueco se escuda en su «agenda saturada» para no hablar de malos olores y biogás](https://www.salamancahoy.es/salamanca/provincia/manueco-escuda-agenda-saturada-hablar-malos-olores-20241210200134-nt.html)
+
+* [El miedo al biogás crece en Salamanca: los pueblos no quieren malos olores y contaminación](https://www.salamanca24horas.com/provincia/miedo-biogas-crece-en-salamanca-pueblos-no-quieren-malos-olores-contaminacion_15127612_102.html)
 
 ### Zamora
 
@@ -116,11 +125,21 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Los vecinos de El Cubo del Vino cuestionan el impacto de la planta de biogás tras una visita a instalaciones alemanas](https://www.zamoranews.com/articulo/provincia/vecinos-cubo-vino-cuestionan-impacto-planta-biogas-visita-instalaciones-alemanas/20241221104828311229.html)
 
+* [Jambrina "marcha" en su negativa a la llegada del biogás a Peleas de Abajo](https://www.laopiniondezamora.es/comarcas/2024/12/23/jambrina-marcha-negativa-llegada-biogas-112886408.html)
+
+* [IU pide una moratoria en la construcción de plantas de biogás, 11 proyectadas en Zamora](https://www.laopiniondezamora.es/comarcas/2024/12/26/iu-pide-moratoria-construccion-plantas-112926112.html)
+
+* [IU propone una moratoria en la construcción de plantas de biogás-biometano](https://eldiadezamora.es/art/62385/iu-propone-una-moratoria-en-la-construccion-de-plantas-de-biogas-biometano)
+
+* [Biogás: una oportunidad, pero con transparencia y garantías](https://www.laopiniondezamora.es/opinion/2024/12/29/biogas-oportunidad-transparencia-garantias-112979311.html)
+
 ### Palencia
 
 * [Rechazo frontal en Santillán de la Vega y pueblos limítrofes a una planta de biogás](https://cadenaser.com/castillayleon/2024/12/10/rechazo-frontal-en-santillan-de-la-vega-y-pueblos-limitrofes-a-una-planta-de-biogas-radio-palencia/)
 
 * [Renuncian a la planta de producción de biometano en Paredes de Nava - *Cadena SER*](https://cadenaser.com/castillayleon/2024/12/03/renuncian-a-la-planta-de-produccion-de-biometano-en-paredes-de-nava-radio-palencia/)
+
+* [Los vecinos cargan contra el proyecto de biogás en Paredes de Nava](https://www.elnortedecastilla.es/palencia/vecinos-cargan-proyecto-biogas-paredes-nava-20241229083158-nt.html)
 
 ### Burgos
 
@@ -169,6 +188,10 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 ### Murcia
 
 * [El alcalde de Las Torres de Cotillas anuncia una consulta pública a favor o en contra del proyecto de la planta de biogás](https://www.elespanol.com/espana/murcia/20241011/alcalde-torres-cotillas-anuncia-consulta-publica-favor-proyecto-planta-biogas/892410878_0.html)
+
+* [El Ayuntamiento de Molina se compromete a revisar el proyecto de construcción de la planta de biogás](https://www.laopiniondemurcia.es/municipios/2024/12/23/firmas-recogidas-vecinos-planta-biogas-molina-112872989.html)
+
+* [Vecinos de El Mirador en San Javier, en pie de guerra contra la instalación de una planta de biometano junto a sus viviendas](https://cadenaser.com/murcia/2024/12/28/vecinos-de-el-mirador-en-san-javier-en-pie-de-guerra-contra-la-instalacion-de-una-planta-de-biometano-junto-a-sus-viviendas-radio-murcia/)
 
 ### Tarragona
 

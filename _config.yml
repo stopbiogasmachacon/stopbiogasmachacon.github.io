@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Stop biogás Machacón"
-  avatar : "/assets/images/Iglesia_de_Machacon.jpg"
-  bio    : "Frenar la construcción de una planta de biogás en Machacón"
+  avatar : "/assets/images/Iglesia_de_Machacon_logo.jpg"
+  bio    : "Frenar la construcción de una planta de biogás en Machacón."
   #links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
@@ -113,4 +113,4 @@ author:
 #  type: liquid
 #  path: /tags/
 
-google_analytics: G-P13FXD29XY
+google_analytics: G-PLK5FXH0M3
