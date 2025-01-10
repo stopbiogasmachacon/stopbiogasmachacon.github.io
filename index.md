@@ -61,15 +61,6 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [logotipo de la plataforma color negro - grande](https://raw.githubusercontent.com/stopbiogasmachacon/stopbiogasmachacon.github.io/refs/heads/main/assets/images/logo_machacon_grande_tiny.png)
 * [logotipo de la plataforma color blanco - grande](https://raw.githubusercontent.com/stopbiogasmachacon/stopbiogasmachacon.github.io/refs/heads/main/assets/images/logo_machacon_grande_blanco_tiny.png) para usar con fondos oscuros.
 
-## Reuniones realizadas
-
-* 8 diciembre 2024 - [Primera reunión](_posts/2024-12-17-acta-primera-reunion.md)
-
-## Eventos asistidos
-
-* 6 diciembre 2024 - Manifestación en Zamora
-* 23 diciembre 2024 - Marcha desde Jambrina a Peleas de Abajo (Zamora)
-
 ## Otros documentos
 
 * [Constitución Española: Derecho a un medio ambiente adecuado](https://app.congreso.es/consti/constitucion/indice/titulos/articulos.jsp?ini=45&tipo=2)
@@ -260,3 +251,11 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 17. ["Se escapan" 4 millones de litros de estiercol líquido de una planta de biogás alemana](https://www.youtube.com/watch?v=IVQvtZB_nv0)
 
+## Reuniones realizadas
+
+* 8 diciembre 2024 - [Primera reunión](_posts/2024-12-17-acta-primera-reunion.md)
+
+## Eventos asistidos
+
+* 6 diciembre 2024 - Manifestación en Zamora
+* 23 diciembre 2024 - Marcha desde Jambrina a Peleas de Abajo (Zamora)
