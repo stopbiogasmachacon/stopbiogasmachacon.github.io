@@ -76,6 +76,16 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Constitución Española: Derecho a un medio ambiente adecuado](https://app.congreso.es/consti/constitucion/indice/titulos/articulos.jsp?ini=45&tipo=2)
 
+## Entrevistas en la radio
+
+1. [Toni Jorge (Ecologistas en Acción) nos habla del biogás](https://www.youtube.com/watch?v=Xs-CZknkXzg)
+
+1. [Rechazo ciudadano en la provincia de Zamora a la instalación de plantas de biogás](https://www.youtube.com/watch?v=wDYA7fE3_qg)
+
+1. [Corduente contra una futura planta de biogás](https://www.youtube.com/watch?v=5CoceSKgqe4)
+
+1. [La planta de biogás es perjudicial para la salud](https://youtube.com/shorts/DqI9j_6UWdg?si=vkW789RW3InyeFt9)
+
 ## Noticias relacionadas
 
 *A continuación encontrarás enlaces a noticias relacionadas con los perjuicios causados por plantas de biogás en otros pueblos de España*
@@ -213,14 +223,6 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Repsol entra en la producción de biometano con la adquisición del 40% de Genia Bioenergy](https://www.repsol.com/es/sala-prensa/notas-prensa/2024/repsol-entra-produccion-biometano-adquisicion-40-por-ciento-genia-bioenergy/index.cshtml)
 
 * [España, vertedero "ilegal" del sur de Europa de residuos urbanos e industriales](https://efeverde.com/espana-vertedero-ilegal-del-sur-de-europa-de-residuos-urbanos-e-industriales/)
-
-## Entrevistas en la radio
-
-1. [Rechazo ciudadano en la provincia de Zamora a la instalación de plantas de biogás](https://www.youtube.com/watch?v=wDYA7fE3_qg)
-
-1. [Corduente contra una futura planta de biogás](https://www.youtube.com/watch?v=5CoceSKgqe4)
-
-1. [La planta de biogás es perjudicial para la salud](https://youtube.com/shorts/DqI9j_6UWdg?si=vkW789RW3InyeFt9)
 
 ## Videos en Youtube
 
