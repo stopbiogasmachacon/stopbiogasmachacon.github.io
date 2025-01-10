@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-*Última actualización: 02 enero 2025*
+*Última actualización: 10 enero 2025*
 
 El objetivo de esta plataforma ciudadana es informar sobre las consecuencias
 negativas de la implementación de plantas de biogás cercanas a las poblaciones
@@ -55,6 +55,13 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Stop biogás Almansa](https://www.facebook.com/StopBiogasAlmansa/)
 
 * [Stop Ganaderia Industrial - plataformas biogás](https://stopganaderiaindustrial.org/plataformas-biogas/)
+
+## Recursos
+
+* [logotipo de la plataforma color negro - vectorial](https://raw.githubusercontent.com/stopbiogasmachacon/stopbiogasmachacon.github.io/refs/heads/main/assets/images/logo_machacon.svg)
+* [logotipo de la plataforma color blanco - vectorial](https://raw.githubusercontent.com/stopbiogasmachacon/stopbiogasmachacon.github.io/refs/heads/main/assets/images/logo_machacon_blanco.svg) para usar con fondos oscuros.
+* [logotipo de la plataforma color negro - grande](https://raw.githubusercontent.com/stopbiogasmachacon/stopbiogasmachacon.github.io/refs/heads/main/assets/images/logo_machacon_grande_tiny.png)
+* [logotipo de la plataforma color blanco - grande](https://raw.githubusercontent.com/stopbiogasmachacon/stopbiogasmachacon.github.io/refs/heads/main/assets/images/logo_machacon_grande_blanco_tiny.png) para usar con fondos oscuros.
 
 ## Reuniones realizadas
 
