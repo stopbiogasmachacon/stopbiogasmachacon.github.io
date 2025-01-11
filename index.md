@@ -203,6 +203,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Stop Biogás Mula se suma al 'boom' de las protestas contra estas instalaciones en la Región](https://www.orm.es/noticias-2024/stop-biogas-mula-se-suma-al-boom-de-las-protestas-contra-estas-instalaciones-en-la-region/)
 
+* [Los vecinos de El Mirador quieren que San Javier sea un municipio libre de macrogranjas y plantas de biogás](https://www.orm.es/noticias-2024/los-vecinos-de-el-mirador-quieren-que-san-javier-sea-un-municipio-libre-de-macrogranjas-y-plantas-de-biogas/)
+
 ### Tarragona
 
 * [Ence aterriza en el biometano con la compra de una planta en Tarragona](https://www.eleconomista.es/energia/noticias/13140824/12/24/ence-aterriza-en-el-biometano-con-la-compra-de-una-planta-en-tarragona.html)
