@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-*Última actualización: 10 enero 2025*
+*Última actualización: 12 enero 2025*
 
 El objetivo de esta plataforma ciudadana es informar sobre las consecuencias
 negativas de la implementación de plantas de biogás cercanas a las poblaciones
@@ -100,6 +100,14 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Mañueco se escuda en su «agenda saturada» para no hablar de malos olores y biogás](https://www.salamancahoy.es/salamanca/provincia/manueco-escuda-agenda-saturada-hablar-malos-olores-20241210200134-nt.html)
 
 * [El miedo al biogás crece en Salamanca: los pueblos no quieren malos olores y contaminación](https://www.salamanca24horas.com/provincia/miedo-biogas-crece-en-salamanca-pueblos-no-quieren-malos-olores-contaminacion_15127612_102.html)
+
+### Valladolid
+
+* [TLP llevará al pleno de diputación la oposición a la planta de biogás de Hornillos de Eresma](https://pueblosycomarcas.com/tlp-llevara-al-pleno-de-diputacion-la-oposicion-a-la-planta-de-biogas-de-hornillos-de-eresma/)
+
+* [Diputado de la Diputación de Valladolid hablando de la planta de biogás en Hornillos de Eresma](https://www.facebook.com/tupuebloTLP/videos/1243730130170775/)
+
+* [Hornillos, villa de naturaleza... pero sin gas](https://www.eldiadevalladolid.com/noticia/zfee70c4f-b26f-c9c9-39418e643fa24e06/202403/hornillos-villa-de-naturaleza-pero-sin-gas)
 
 ### Zamora
 
