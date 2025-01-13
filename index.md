@@ -101,6 +101,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [El miedo al biogás crece en Salamanca: los pueblos no quieren malos olores y contaminación](https://www.salamanca24horas.com/provincia/miedo-biogas-crece-en-salamanca-pueblos-no-quieren-malos-olores-contaminacion_15127612_102.html)
 
+* [Vecinos del alfoz de Salamanca y Babilafuente se concentran este martes ante la Consejería de Medio Ambiente para pedir el cese de las macrogranjas y macroplantas](https://www.salamanca24horas.com/provincia/comarca-de-salamanca/vecinos-alfoz-salamanca-se-concentraran-este-martes-consejeria-medio-ambiente-pedir-cese-macrogranjas-macroplantas_15138205_102.html)
+
 ### Valladolid
 
 * [TLP llevará al pleno de diputación la oposición a la planta de biogás de Hornillos de Eresma](https://pueblosycomarcas.com/tlp-llevara-al-pleno-de-diputacion-la-oposicion-a-la-planta-de-biogas-de-hornillos-de-eresma/)
