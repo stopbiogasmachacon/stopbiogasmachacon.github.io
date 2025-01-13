@@ -231,6 +231,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [BIOMETANO. El lavado verde de un modelo económico y energético insostenible.](https://laprotesta.es/2024/12/25/biometano-el-lavado-verde-de-un-modelo-economico-y-energetico-insostenible/)
 
+* [Un experto avisa del «gravísimo» riesgo de contaminación de los acuíferos de Sierra Nevada por macrogranjas y una planta de biogás](https://fuentesinformadas.com/un-experto-avisa-del-gravisimo-riesgo-de-contaminacion-de-los-acuiferos-de-sierra-nevada-por-macrogranjas-y-una-planta-de-biogas)
+
 ## Videos en Youtube
 
 *A continuación videos de YouTube con el testimonio de otros afectados*
