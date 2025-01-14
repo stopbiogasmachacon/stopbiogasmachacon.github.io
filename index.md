@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-*Última actualización: 12 enero 2025*
+*Última actualización: 14 enero 2025*
 
 El objetivo de esta plataforma ciudadana es informar sobre las consecuencias
 negativas de la implementación de plantas de biogás cercanas a las poblaciones
@@ -196,6 +196,10 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Stop Biogás Almansa se solidariza con Llutxent en una masiva y exitosa protesta contra la planta de biogás y fertilizantes - *La tinta de Almansa*](https://latintadealmansa.com/sociedad/stop-biogas-almansa-se-solidariza-con-llutxent-en-una-masiva-y-exitosa-protesta-contra-la-planta-de-fertilizantes/)
 
 * [Stop Biogás advierte y pide ayuda a la vecindad de Almansa: «Hay que estar muy atentos» - *La tinta de Almansa*](https://latintadealmansa.com/sociedad/stop-biogas-advierte-y-pide-ayuda-a-la-vecindad-de-almansa-hay-que-estar-muy-atentos/)
+
+### Albacete
+
+* [Cuando la organización vecinal cambia las cosas: así se evitó la macroplanta gracias a la plataforma Stop Biogás Almansa](https://latintadealmansa.com/sociedad/cuando-la-organizacion-vecinal-cambia-las-cosas-asi-se-evito-la-macroplanta-gracias-a-la-plataforma-stop-biogas-almansa/)
 
 ### Málaga
 
