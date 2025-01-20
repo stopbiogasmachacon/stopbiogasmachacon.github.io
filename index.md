@@ -78,6 +78,38 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 1. [La planta de biogás es perjudicial para la salud](https://youtube.com/shorts/DqI9j_6UWdg?si=vkW789RW3InyeFt9)
 
+## Accidentes
+
+1. [Incendio en la planta de biogás de Campillos: arde una balsa provocando una gran columna de humo](https://www.malagahoy.es/provincia/Incendio-biogas-Campillos-balsa-columna-humo_0_1822918622.html)
+
+1. [Incendio en la Planta de Biogás de Llutxent](https://latintadealmansa.com/sucesos/incendio-planta-biogas-llutxent/)
+
+1. [Incendio en nuestra planta de biogás en Torregrossa](https://blog.somenergia.coop/som-energia/2015/10/incendio-en-nuestra-planta-de-biogas-en-torregrossa/)
+
+1. [Técnicos de cuatro países investigan las causas de la rotura del biodigestor](https://www.lavozdegalicia.es/noticia/coruna/2002/06/08/tecnicos-cuatro-paises-investigan-causas-rotura-biodigestor/0003_1116633.htm)
+
+1. ["Se escapan" 4 millones de litros de estiercol líquido de una planta de biogás alemana](https://www.youtube.com/watch?v=IVQvtZB_nv0)
+
+1. [Accidente de estiércol en una planta de biogás: 5.000 metros cúbicos de estiércol corren peligro de fugarse](https://www.youtube.com/watch?v=dRKFpo-HCeE)
+
+1. [200.000 litros de sustrato de fermentación brotan de la planta de biogás de Bilshausen](https://www.youtube.com/watch?v=dRKFpo-HCeE)
+
+1. [Explosión cerca de Oxford por el impacto de un rayo a una planta de desechos](https://www.youtube.com/watch?v=1jOadfkHxag)
+
+1. [Un rayo provoca una gran explosión en una planta de biogas en Oxford](https://www.youtube.com/watch?v=LuGW61n-bMo)
+
+1. [Un raio hace explosionar un tanque de biogás Oxfordshire](https://www.youtube.com/watch?v=IGAdT-S5g0E)
+  
+1. [Imagenes de dron muestra los destrozos de la explosión de tanques de biogás](https://www.youtube.com/watch?v=mQNQYu-I3o0)
+
+1. [Explosión en la planta de biogás de Altenstadt](https://www.youtube.com/watch?v=bJLFrwPd_EU)
+
+1. [Explosión de la planta de biomasa de Sittard en 2007](https://www.youtube.com/watch?v=BYcz6zSEeq8)
+
+## Charlas informativas
+
+1. [Charla-Conferencia acerca del impacto de las plantas de biometano y fertilizantes](https://www.youtube.com/live/cNo56DHnc2Y)
+
 ## Noticias relacionadas
 
 *A continuación encontrarás enlaces a noticias relacionadas con los perjuicios causados por plantas de biogás en otros pueblos de España*
@@ -111,6 +143,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Diputado de la Diputación de Valladolid hablando de la planta de biogás en Hornillos de Eresma](https://www.facebook.com/tupuebloTLP/videos/1243730130170775/)
 
 * [Hornillos, villa de naturaleza... pero sin gas](https://www.eldiadevalladolid.com/noticia/zfee70c4f-b26f-c9c9-39418e643fa24e06/202403/hornillos-villa-de-naturaleza-pero-sin-gas)
+
+* [La plataforma “No a la planta de biogás” alza la voz frente a la Consejería de Medio Ambiente](https://www.palenciaenlared.es/la-plataforma-no-a-la-planta-de-biogas-alza-la-voz-frente-a-la-consejeria-de-medio-ambiente/)
 
 ### Zamora
 
@@ -178,6 +212,10 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Alertan de los perjuicios que podría ocasionar la nueva planta de biogás de un pueblo de Toledo](https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20221223/alertan-perjuicios-ocasionara-planta-biogas-pueblo-toledo/728177505_0.html)
 
+### Ciudad Real
+
+* [Un pueblo de Ciudad Real se levanta contra la instalación de una planta de biometano: "Consulta popular"](https://www.cope.es/emisoras/castilla-la-mancha/ciudad-real-provincia/ciudad-real/noticias/pueblo-ciudad-real-levanta-instalacion-planta-biometano-consulta-popular-20250120_3080038.html)
+
 ### Madrid
 
 * [Griñón alerta del riesgo de “variables genéticasen caso de accidente de la planta de biogás de Cubas de la Sagra](https://cadenaser.com/cmadrid/2024/05/09/grinon-alerta-del-riesgo-de-variables-geneticas-en-caso-de-accidente-de-la-planta-de-biogas-de-cubas-de-la-sagra-ser-madrid-sur/)
@@ -194,13 +232,15 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Llutxent saldrá el sábado a la calle contra la planta de biogás - *Ontinyent*](https://periodicontinyent.com/es/luchente-saliera-el-s%C3%A1bado-a-la-calle-contra-la-planta-de-biogas/)
 
+### Albacete
+
+* [Cuando la organización vecinal cambia las cosas: así se evitó la macroplanta gracias a la plataforma Stop Biogás Almansa](https://latintadealmansa.com/sociedad/cuando-la-organizacion-vecinal-cambia-las-cosas-asi-se-evito-la-macroplanta-gracias-a-la-plataforma-stop-biogas-almansa/)
+
 * [Stop Biogás Almansa se solidariza con Llutxent en una masiva y exitosa protesta contra la planta de biogás y fertilizantes - *La tinta de Almansa*](https://latintadealmansa.com/sociedad/stop-biogas-almansa-se-solidariza-con-llutxent-en-una-masiva-y-exitosa-protesta-contra-la-planta-de-fertilizantes/)
 
 * [Stop Biogás advierte y pide ayuda a la vecindad de Almansa: «Hay que estar muy atentos» - *La tinta de Almansa*](https://latintadealmansa.com/sociedad/stop-biogas-advierte-y-pide-ayuda-a-la-vecindad-de-almansa-hay-que-estar-muy-atentos/)
 
-### Albacete
-
-* [Cuando la organización vecinal cambia las cosas: así se evitó la macroplanta gracias a la plataforma Stop Biogás Almansa](https://latintadealmansa.com/sociedad/cuando-la-organizacion-vecinal-cambia-las-cosas-asi-se-evito-la-macroplanta-gracias-a-la-plataforma-stop-biogas-almansa/)
+* [Condenan a un trabajador de la posible planta de biogás de Almansa por amenazar y golpear el vehículo de un vecino: «Te vas a enterar de qué somos capaces»](https://latintadealmansa.com/destacado/condenan-trabajador-abonos-organicos-montagut-amenazas/)
 
 ### Málaga
 
@@ -272,9 +312,7 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 15. [Una planta de compostaje causa miedo y mal olor en Fuentepelayo - LaSexta](https://www.youtube.com/watch?v=EybISlx040A)
 
-16. [Explosión cerca de Oxford por el impacto de un rayo a una planta de desechos - El Espectador](https://www.youtube.com/watch?v=1jOadfkHxag)
 
-17. ["Se escapan" 4 millones de litros de estiercol líquido de una planta de biogás alemana](https://www.youtube.com/watch?v=IVQvtZB_nv0)
 
 ## Reuniones realizadas
 
@@ -284,3 +322,4 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * 6 diciembre 2024 - Manifestación en Zamora
 * 23 diciembre 2024 - Marcha desde Jambrina a Peleas de Abajo (Zamora)
+* 19 enero 2025 - Manifestación en Pinarejos
