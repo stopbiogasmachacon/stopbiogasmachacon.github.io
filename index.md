@@ -9,31 +9,32 @@ classes: wide
 
 *Última actualización: 14 enero 2025*
 
-El objetivo de esta plataforma ciudadana es informar sobre las consecuencias
-negativas de la implementación de plantas de biogás cercanas a las poblaciones
-y evitar, por estos motivos, la construcción de una de estas plantas en
-Machacón y pueblos aledaños.
+Machacón es un pueblo de poco más de 400 habitantes situado a unos 12 kilómetros de Salamanca. El 3 de mayo de 2024 [La Gaceta](https://www.lagacetadesalamanca.es/provincia/municipio-salmantino-albergara-nueva-planta-biometano-20240503141824-nt.html) y [elEconomista.es](https://www.eleconomista.es/energia/noticias/12798069/05/24/genia-construira-su-segunda-planta-de-biometano-en-salamanca-con-una-inversion-de-25-millones-de-euros.html) publicaron que Genia Bioenergy construirá en Machacón una planta de biometano pensada para procesar 150 mil toneladas de purines y estiércol al año. En esas publicaciones, la Alcaldesa de Machacón agradeció a la empresa "haber puesto el punto de mira en Machacón".
 
-Esta página concentra argumentos y testimonios (noticias y videos) de otros
-pueblos donde plantas similares ya se han instalado y también informa sobre las
-actividades de esta plataforma ciudadana.
+Hoy en día sabemos, por comparación con otras plantas y por la normativa vigente, que estas plantas pueden procesar mucho más que estiércol y purines, y acaban procesando SANDACH, lodos industriales, y todo tipo de residuos agropecuarios.
 
-Los argumentos en contra de la construcción de las plantas de biogás se basan en
-la naturaleza de estos proyectos y en el impacto (altamente negativo) que
-dichas plantas ya tienen en la vida y la salud de las gentes de los pueblos donde ya
-se han construído. Los impactos más relevantes son:
+Lejos de traer bienestar al pueblo, debido a sus dimensiones y cercanía al núcleo urbano (alrededor de 1 km), esta planta traerá todos sus inconvenientes tal y como se verifica en muchos otros sitios de España donde ya se han instalado plantas de estas características:
 
-- Contaminación del aire con agentes potencialmente cancerígenos
-- Contaminación del aire con olores putrefactos de alta intensidad que impiden
-  respirar, irritan la garganta y los ojos, se adhieren a la ropa e impregan la casa
-- Contaminación de acuíferos y pérdida de la potabilidad del agua en los pueblos
-  cercanos
-- Vertidos tóxicos en nuestras tierras
-- Alto tráfico de camiones en la zona (más de 30 camiones diarios considerando las dimensiones anunciadas para la planta de Machacón)
-- Despoblación
-- Destrozo de carreteras y ruidos
-- Efecto llamada a la instalación de macrogranjas (que aumentan todos los
-  problemas ya referidos)
+* **Insoportables olores derivados del manejo de toneladas de materia orgánica en descomposición** como ya se verifica en Llutxent (Valencia), Campillo (Málaga), Navia (Asturias) y Balsa de Ves (Albacete), Hornillos de Eresma (Valladolid) donde sus vecinos no pueden salir a la calle ni abrir las ventanas de casa;
+* **Alto tráfico de camiones para el transporte de la materia prima hacia y desde la planta**, lo que estropeará las carreteras y caminos, producirá derrames, y contaminará fuertemente el aire del pueblo. Además del peligro que suponen para la seguridad vial;
+* **Contaminación del aire por CO2 y otros gases nocivos** (como ácido sulfhídrico) que no son aprovechables energéticamente por la planta y se liberan directamente a la atmósfera en grandes cantidades, suponiendo un grave riesgo para nuestra salud;
+* **Problemas de salubridad, olores, escorrentías, suciedad, contaminación y estéticos que resulta de verter el digestato** procedente de plantas de biogás en las tierras de cultivo, como pasa en Ólvega (Soria), disminuyendo notablemente nuestra calidad de vida y contaminando nuestras tierras de cultivo y acuíferos;
+* **Efecto llamada para macrogranjas**, bajo el pretexto de generar más materia prima para las plantas de biogás, contribuyendo a un ciclo vicioso de falsa solución de un problema a un desastre que ellas mismas generan, repercutiendo también en la economía de las pequeñas granjas que no podrán competir;
+* **Despoblación y desvalorización de nuestras propiedades** (no podremos vivir aquí y tendremos que emigrar, y nadie querrá comprar casas o terrenos en un sitio sin calidad de vida); ejemplo de Balsa de Ves (Albacete).
+
+Los pueblos donde se han instalado plantas de estas características han tenido problemas muy graves: pérdida de calidad de vida, pérdida de población, destrucción del entorno rural, pérdida de turismo y de patrimonio cultural y natural. **¿Por qué iba a ser diferente en Machacón?** En el último año (2024) las quejas de lxs vecinxs se han levantado por toda España, y en particular por Castilla y León.
+
+**¿Y por qué vamos a quererla en Machacón** cuando en muchos otros pueblos sus alcaldes/as, o unión de alcaldes/as, han luchado para decir NO a la construcción de estas plantas, como en Romica, Lucillos, Cubas de la Sagra, Castropodame, Fuentealbilla, Almansa, entre muchos otros, donde estos proyectos fueron vetados a favor del bienestar, la salud y la calidad de vida de lxs vecinxs?
+
+**Firma para demostrar tu desacuerdo con la instalación de una macroplanta de biometano en Machacón (Salamanca).**
+
+*Escanea el código QR o pincha directamente en el 👇*
+
+<p style="text-align:center;"><a href="https://www.change.org/stopbiogasmachacon"><img src="assets/images/codigo-qr-de-la-peticion.png" alt="QR peticion" style="width:150px;height:150px;"></a></p>
+
+**¿Puedo firmar si no vivo en Machacón?** Sí. Este es un asunto que nos afecta a todxs y si vienes los fines de semana o en las vacaciones de verano, y especialmente si eres vecino de un pueblo cercano, los olores, la contaminación y los perjuicios también llegarán a ti (Nuevo Francos, Villagonzalo, Calvarrasa de Arriba, Calvarrasa de Abajo, El Salinar, El Encinar, Amatos, Huerta, Pelabravo, Nuevo Naharros, Encinas de Abajo, Cilloruelo).
+
+*Por un mundo rural verdaderamente sostenible y con salud y calidad de vida.*
 
 ## Anotaciones importantes
 
