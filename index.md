@@ -206,7 +206,9 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 ### Segovia
 
-* [Los vecinos de Pinarejos rechazan la planta de biometano - *Del día de Segovia*](https://www.eldiasegovia.es/noticia/zddb10443-ef95-aa47-44aa48eacc0b7073/202412/los-vecinos-de-pinarejos-rechazan-la-planta-de-biometano)
+* [Los vecinos de Pinarejos rechazan la planta de biometano](https://www.eldiasegovia.es/noticia/zddb10443-ef95-aa47-44aa48eacc0b7073/202412/los-vecinos-de-pinarejos-rechazan-la-planta-de-biometano)
+
+* [Rechazan una planta de biogás en un pueblo de Segovia a un kilómetro de Arévalo](https://avilared.com/art/75377/rechazan-una-planta-de-biogas-en-un-pueblo-de-segovia-a-un-kilometro-de-arevalo)
 
 ### Toledo
 
