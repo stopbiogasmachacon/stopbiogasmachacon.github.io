@@ -204,6 +204,10 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Crece la oposición a la planta de biogás prevista en Milagros - *Diario de Burgos*](https://www.diariodeburgos.es/noticia/ze4c1f128-fd66-0548-323928960721f01a/202411/crece-la-oposicion-a-la-planta-de-biogas-prevista-en-milagros)
 
+### León
+
+* [La Junta aprueba de golpe importantes trámites para la planta de biometano de Valencia de Don Juan](https://ileon.eldiario.es/actualidad/junta-aprueba-golpe-importantes-tramites-planta-biometano-valencia-don-juan_1_11814930.html)
+
 ### Segovia
 
 * [Los vecinos de Pinarejos rechazan la planta de biometano](https://www.eldiasegovia.es/noticia/zddb10443-ef95-aa47-44aa48eacc0b7073/202412/los-vecinos-de-pinarejos-rechazan-la-planta-de-biometano)
