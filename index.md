@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-*Última actualización: 14 enero 2025*
+*Última actualización: 27 enero 2025*
 
 Machacón es un pueblo de poco más de 400 habitantes situado a unos 12 kilómetros de Salamanca. El 3 de mayo de 2024 [La Gaceta](https://www.lagacetadesalamanca.es/provincia/municipio-salmantino-albergara-nueva-planta-biometano-20240503141824-nt.html) y [elEconomista.es](https://www.eleconomista.es/energia/noticias/12798069/05/24/genia-construira-su-segunda-planta-de-biometano-en-salamanca-con-una-inversion-de-25-millones-de-euros.html) publicaron que Genia Bioenergy construirá en Machacón una planta de biometano pensada para procesar 150 mil toneladas de purines y estiércol al año. En esas publicaciones, la Alcaldesa de Machacón agradeció a la empresa "haber puesto el punto de mira en Machacón".
 
@@ -214,6 +214,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Alertan de los perjuicios que podría ocasionar la nueva planta de biogás de un pueblo de Toledo](https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20221223/alertan-perjuicios-ocasionara-planta-biogas-pueblo-toledo/728177505_0.html)
 
+* [Los vecinos de Lucillos (Toledo) rechazan la construcción de una planta de biogás en su municipio](https://www.cmmedia.es/noticias/castilla-la-mancha/toledo/vecinos-lucillos-toledo-rechazan-construccion-planta-biogas-municipio.html)
+
 ### Ciudad Real
 
 * [Un pueblo de Ciudad Real se levanta contra la instalación de una planta de biometano: "Consulta popular"](https://www.cope.es/emisoras/castilla-la-mancha/ciudad-real-provincia/ciudad-real/noticias/pueblo-ciudad-real-levanta-instalacion-planta-biometano-consulta-popular-20250120_3080038.html)
@@ -221,6 +223,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 ### Madrid
 
 * [Griñón alerta del riesgo de “variables genéticasen caso de accidente de la planta de biogás de Cubas de la Sagra](https://cadenaser.com/cmadrid/2024/05/09/grinon-alerta-del-riesgo-de-variables-geneticas-en-caso-de-accidente-de-la-planta-de-biogas-de-cubas-de-la-sagra-ser-madrid-sur/)
+
+* [Cubas de la Sagra emite un informe urbanístico negativo para la planta de biogás de Acciona](https://cadenaser.com/cmadrid/2024/05/13/cubas-de-la-sagra-emite-un-informe-urbanistico-negativo-para-la-planta-de-biogas-de-acciona-ser-madrid-sur/)
 
 ### Valencia
 
@@ -243,6 +247,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Stop Biogás advierte y pide ayuda a la vecindad de Almansa: «Hay que estar muy atentos» - *La tinta de Almansa*](https://latintadealmansa.com/sociedad/stop-biogas-advierte-y-pide-ayuda-a-la-vecindad-de-almansa-hay-que-estar-muy-atentos/)
 
 * [Condenan a un trabajador de la posible planta de biogás de Almansa por amenazar y golpear el vehículo de un vecino: «Te vas a enterar de qué somos capaces»](https://latintadealmansa.com/destacado/condenan-trabajador-abonos-organicos-montagut-amenazas/)
+
+* [La planta de biogás de Fuentealbilla no es un proyecto prioritario](https://www.ondacero.es/emisoras/castilla-la-mancha/albacete/noticias/planta-biogas-fuentealbilla-proyecto-prioritario_2023071864b635ccbcaee0000184ce46.html)
 
 ### Málaga
 
