@@ -78,6 +78,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 1. [La planta de biogás es perjudicial para la salud](https://youtube.com/shorts/DqI9j_6UWdg?si=vkW789RW3InyeFt9)
 
+1. [Ser Occidente Tineo Polígono Curiscada Malos Olores Planta Biogás 15-09-2016](https://www.ivoox.com/en/ser-occidente-tineo-poligono-curiscada-malos-olores-planta-audios-mp3_rf_12915671_1.html)
+
 ## Accidentes
 
 1. [Incendio en la planta de biogás de Campillos: arde una balsa provocando una gran columna de humo](https://www.malagahoy.es/provincia/Incendio-biogas-Campillos-balsa-columna-humo_0_1822918622.html)
@@ -186,6 +188,30 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Biogás: una oportunidad, pero con transparencia y garantías](https://www.laopiniondezamora.es/opinion/2024/12/29/biogas-oportunidad-transparencia-garantias-112979311.html)
 
+* [Stop Biogás apela en Aliste a la "responsabilidad" de los alcaldes](https://www.laopiniondezamora.es/comarcas/2025/02/02/stop-biogas-apela-aliste-responsabilidad-113921933.html)
+
+### Valencia
+
+* [Incendio en la Planta de Biogás de Llutxent](https://latintadealmansa.com/sucesos/incendio-planta-biogas-llutxent/)
+
+* [El empresariado incide en la peligrosidad de la planta de biogás tras el incendio en Llutxent](https://periodicontinyent.com/es/el-empresariado-incide-en-la-peligrosidad-de-la-planta-de-biogas-despu%C3%A9s-del-incendio-en-lluchent/)
+
+* [El Ayuntamiento de Llutxent se suma a las manifestaciones contra los malos olores por la planta de biogás - *Levante*](https://www.levante-emv.com/costera/2024/10/14/ayuntamiento-llutxent-suma-manifestaciones-malos-109299973.html)
+
+* [Mil personas se manifiestan en Llutxent contra la planta de biogás: - *Levante*](https://www.levante-emv.com/costera/2024/10/22/mil-personas-manifiestan-llutxent-planta-109976946.html) 
+
+* [Llutxent saldrá el sábado a la calle contra la planta de biogás - *Ontinyent*](https://periodicontinyent.com/es/luchente-saliera-el-s%C3%A1bado-a-la-calle-contra-la-planta-de-biogas/)
+
+### Asturias
+
+* [«No se puede convertir una planta de tratamiento de purines en una planta de tratamiento de cualquier residuo»](https://ort-ort.com/no-se-puede-convertir-una-planta-de-tratamiento-de-purines-en-una-planta-de-tratamiento-de-cualquier-residuo/)
+
+* [Solicitud información residuos planta purines Navia](https://coordinadoraecoloxista.org/solicitud-informacion-residuos-planta-purines-navia-18-06-2022/)
+
+* [El PP atribuye los malos olores en Tineo y La Curiscada a la planta de biogás](https://www.lne.es/occidente/2016/09/01/pp-atribuye-malos-olores-tineo-19498510.html)
+
+* [Las alegaciones a la planta de biogás de Tineo alertan de malos olores](https://www.elcomercio.es/asturias/occidente/alegaciones-planta-biogas-20190402002747-ntvo.html)
+
 ### Palencia
 
 * [Rechazo frontal en Santillán de la Vega y pueblos limítrofes a una planta de biogás](https://cadenaser.com/castillayleon/2024/12/10/rechazo-frontal-en-santillan-de-la-vega-y-pueblos-limitrofes-a-una-planta-de-biogas-radio-palencia/)
@@ -229,18 +255,6 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Griñón alerta del riesgo de “variables genéticasen caso de accidente de la planta de biogás de Cubas de la Sagra](https://cadenaser.com/cmadrid/2024/05/09/grinon-alerta-del-riesgo-de-variables-geneticas-en-caso-de-accidente-de-la-planta-de-biogas-de-cubas-de-la-sagra-ser-madrid-sur/)
 
 * [Cubas de la Sagra emite un informe urbanístico negativo para la planta de biogás de Acciona](https://cadenaser.com/cmadrid/2024/05/13/cubas-de-la-sagra-emite-un-informe-urbanistico-negativo-para-la-planta-de-biogas-de-acciona-ser-madrid-sur/)
-
-### Valencia
-
-* [Incendio en la Planta de Biogás de Llutxent](https://latintadealmansa.com/sucesos/incendio-planta-biogas-llutxent/)
-
-* [El empresariado incide en la peligrosidad de la planta de biogás tras el incendio en Llutxent](https://periodicontinyent.com/es/el-empresariado-incide-en-la-peligrosidad-de-la-planta-de-biogas-despu%C3%A9s-del-incendio-en-lluchent/)
-
-* [El Ayuntamiento de Llutxent se suma a las manifestaciones contra los malos olores por la planta de biogás - *Levante*](https://www.levante-emv.com/costera/2024/10/14/ayuntamiento-llutxent-suma-manifestaciones-malos-109299973.html)
-
-* [Mil personas se manifiestan en Llutxent contra la planta de biogás: - *Levante*](https://www.levante-emv.com/costera/2024/10/22/mil-personas-manifiestan-llutxent-planta-109976946.html) 
-
-* [Llutxent saldrá el sábado a la calle contra la planta de biogás - *Ontinyent*](https://periodicontinyent.com/es/luchente-saliera-el-s%C3%A1bado-a-la-calle-contra-la-planta-de-biogas/)
 
 ### Albacete
 
