@@ -212,6 +212,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Las alegaciones a la planta de biogás de Tineo alertan de malos olores](https://www.elcomercio.es/asturias/occidente/alegaciones-planta-biogas-20190402002747-ntvo.html)
 
+* [Asturias. Impacto planta valorización Tineo](https://www.ecoticias.com/residuos-reciclaje/193040_asturias-impacto-planta-valorizacion-tineo)
+
 ### Palencia
 
 * [Rechazo frontal en Santillán de la Vega y pueblos limítrofes a una planta de biogás](https://cadenaser.com/castillayleon/2024/12/10/rechazo-frontal-en-santillan-de-la-vega-y-pueblos-limitrofes-a-una-planta-de-biogas-radio-palencia/)
