@@ -7,7 +7,10 @@ author_profile: true
 classes: wide
 ---
 
-*Última actualización: 27 enero 2025*
+*Última actualización: 07 febrero 2025*
+
+**Plataforma Stop Biogás Machacón**  
+**contacto:** contacto [arroba] stopbiogasmachacon.es
 
 Machacón es un pueblo de poco más de 400 habitantes situado a unos 12 kilómetros de Salamanca. El 3 de mayo de 2024 [La Gaceta](https://www.lagacetadesalamanca.es/provincia/municipio-salmantino-albergara-nueva-planta-biometano-20240503141824-nt.html) y [elEconomista.es](https://www.eleconomista.es/energia/noticias/12798069/05/24/genia-construira-su-segunda-planta-de-biometano-en-salamanca-con-una-inversion-de-25-millones-de-euros.html) publicaron que Genia Bioenergy construirá en Machacón una planta de biometano pensada para procesar 150 mil toneladas de purines y estiércol al año. En esas publicaciones, la Alcaldesa de Machacón agradeció a la empresa "haber puesto el punto de mira en Machacón".
 
