@@ -119,6 +119,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 *A continuación encontrarás enlaces a noticias relacionadas con los perjuicios causados por plantas de biogás en otros pueblos de España*
 
+* [Por qué hay un frente común en el mundo rural de Castilla y León contra las plantas de biometano y biogás](https://www.elespanol.com/castilla-y-leon/region/20250207/frente-comun-mundo-rural-castilla-leon-plantas-biometano-biogas/921407886_0.html)
+
 ### Machacón
 
 * [El municipio salmantino que albergará una nueva planta de biometano - La Gaceta](https://www.lagacetadesalamanca.es/provincia/municipio-salmantino-albergara-nueva-planta-biometano-20240503141824-nt.html)
@@ -140,6 +142,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [El miedo al biogás crece en Salamanca: los pueblos no quieren malos olores y contaminación](https://www.salamanca24horas.com/provincia/miedo-biogas-crece-en-salamanca-pueblos-no-quieren-malos-olores-contaminacion_15127612_102.html)
 
 * [Vecinos del alfoz de Salamanca y Babilafuente se concentran este martes ante la Consejería de Medio Ambiente para pedir el cese de las macrogranjas y macroplantas](https://www.salamanca24horas.com/provincia/comarca-de-salamanca/vecinos-alfoz-salamanca-se-concentraran-este-martes-consejeria-medio-ambiente-pedir-cese-macrogranjas-macroplantas_15138205_102.html)
+
+* [Los afectados por las plantas de biogás de Salamanca se manifestarán en Valladolid](https://www.salamanca24horas.com/provincia/afectados-por-plantas-biogas-salamanca-se-manifestaran-en-valladolid_15140693_102.html)
 
 ### Valladolid
 
@@ -192,6 +196,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 * [Biogás: una oportunidad, pero con transparencia y garantías](https://www.laopiniondezamora.es/opinion/2024/12/29/biogas-oportunidad-transparencia-garantias-112979311.html)
 
 * [Stop Biogás apela en Aliste a la "responsabilidad" de los alcaldes](https://www.laopiniondezamora.es/comarcas/2025/02/02/stop-biogas-apela-aliste-responsabilidad-113921933.html)
+
+* [Stop Biogás Zamora advierte de que las plantas proyectadas podrían «consumir toda la paja que ha estado disponible para los ganaderos hasta ahora»](https://enfoquezamora.com/2025/02/08/stop-biogas-zamora-advierte-de-que-las-plantas-proyectadas-podrian-consumir-toda-la-paja-que-ha-estado-disponible-para-los-ganaderos-hasta-ahora/)
 
 ### Valencia
 
@@ -294,6 +300,12 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 ### Tarragona
 
 * [Ence aterriza en el biometano con la compra de una planta en Tarragona](https://www.eleconomista.es/energia/noticias/13140824/12/24/ence-aterriza-en-el-biometano-con-la-compra-de-una-planta-en-tarragona.html)
+
+### Aragón
+
+* [La instalación de una planta de biogás condena a la ruina a los empresarios de La Almunia: «Es injusto»](https://okdiario.com/aragon/instalacion-planta-biogas-condena-ruina-empresarios-almunia-injusto-14250969)
+
+* [Un hostelero afectado por una planta de biogás: «Mis clientes no soportarán oler toneladas de excrementos»](https://okdiario.com/aragon/hostelero-afectado-planta-biogras-mis-clientes-no-soportaran-oler-toneladas-excrementos-14251004)
 
 ### Generales
 
