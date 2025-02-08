@@ -199,6 +199,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 
 * [Stop Biogás Zamora advierte de que las plantas proyectadas podrían «consumir toda la paja que ha estado disponible para los ganaderos hasta ahora»](https://enfoquezamora.com/2025/02/08/stop-biogas-zamora-advierte-de-que-las-plantas-proyectadas-podrian-consumir-toda-la-paja-que-ha-estado-disponible-para-los-ganaderos-hasta-ahora/)
 
+* [La oposición a las plantas de biogás en Jambrina llega a las Cortes de Castilla y León](https://www.zamoranews.com/articulo/provincia/oposicion-plantas-biogas-jambrina-llega-cortes-castilla-leon/20250207191503317336.html)
+
 ### Valencia
 
 * [Incendio en la Planta de Biogás de Llutxent](https://latintadealmansa.com/sucesos/incendio-planta-biogas-llutxent/)
@@ -354,6 +356,8 @@ plantas de biogás en la cercanía de pueblos y ciudades:
 14. [El mal olor de la planta de Compostaje de Velascálvaro irrita a los pueblos de alrededor - *Castilla León Televisión*](https://www.youtube.com/watch?v=XM3A8EkNdWc)
 
 15. [Una planta de compostaje causa miedo y mal olor en Fuentepelayo - LaSexta](https://www.youtube.com/watch?v=EybISlx040A)
+
+16. [La planta de biogas es perjudicial para la salud](https://www.youtube.com/shorts/DqI9j_6UWdg)
 
 
 
