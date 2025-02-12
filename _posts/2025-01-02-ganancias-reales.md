@@ -1,3 +1,8 @@
+---
+layout: single
+classes: wide
+---
+
 # La verdad sobre las ganancias de los ayuntamientos con las plantas de biogás ¡las cifras reales!
 
 *Información proporcionada por la plataforma [Stop Biogás Zamora](https://stopbiogaszamora.org/).*
