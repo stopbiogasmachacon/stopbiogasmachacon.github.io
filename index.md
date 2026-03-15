@@ -7,6 +7,10 @@ author_profile: true
 classes: wide
 ---
 
+<p style="font-size: 40px;"><b>NUEVO BLOG DE LA PLATAFORMA</b></p>
+
+<p style="font-size: 40px;"><a href="https://stopbiogasmachacon.blogspot.com/">https://stopbiogasmachacon.blogspot.com/</a></p>
+
 *Última actualización: 07 febrero 2025*
 
 **Plataforma Stop Biogás Machacón**  
