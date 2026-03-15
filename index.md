@@ -7,9 +7,11 @@ author_profile: true
 classes: wide
 ---
 
-<p style="font-size: 40px;"><b>NUEVO BLOG DE LA PLATAFORMA</b></p>
+<p style="font-size: 40px; text-align: center;">:point_down: :point_down: <b>NUEVO BLOG DE LA PLATAFORMA</b> :point_down: :point_down:</p>
 
-<p style="font-size: 40px;"><a href="https://stopbiogasmachacon.blogspot.com/">https://stopbiogasmachacon.blogspot.com/</a></p>
+<p style="font-size: 40px; text-align: center;"><a href="https://stopbiogasmachacon.blogspot.com/">https://stopbiogasmachacon.blogspot.com/</a></p>
+
+<p style="font-size: 40px; text-align: center;">:point_up_2: :point_up_2: <b>NUEVO BLOG DE LA PLATAFORMA</b> :point_up_2: :point_up_2:</p>
 
 *Última actualización: 07 febrero 2025*
 
